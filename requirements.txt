@@ -9,4 +9,4 @@ argparse
 scikit-learn
 pytest
 sentence-transformers==2.1.0
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz
+https://github.com/trungtv/vi_spacy/blob/master/packages/vi_spacy_model-0.2.1/dist/vi_spacy_model-0.2.1.tar.gz
