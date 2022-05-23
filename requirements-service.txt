@@ -12,4 +12,4 @@ bert-extractive-summarizer
 Flask
 flask-cors
 nltk
-https://github.com/trungtv/vi_spacy/blob/master/packages/vi_spacy_model-0.2.1/dist/vi_spacy_model-0.2.1.tar.gz
+https://github.com/nguyenhiepvan/bert-extractive-summarizer/blob/master/vi_spacy_model-0.2.1.zip
